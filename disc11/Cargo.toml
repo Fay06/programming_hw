@@ -1,7 +1,0 @@
-[package]
-name = "disc11"
-version = "0.1.0"
-authors = ["Minya Rancic <rancic.minya@gmail.com>", "Vinnie Caprarola <vinnie@vcaprarola.me>"]
-edition = "2018"
-
-[dependencies]
