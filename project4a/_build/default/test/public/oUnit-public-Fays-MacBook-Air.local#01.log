@@ -1,0 +1,30 @@
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: Start test public:0:public_assign1.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: Test public:0:public_assign1 is successful.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: End test public:0:public_assign1.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: Start test public:3:public_equal.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: Test public:3:public_equal is successful.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: End test public:3:public_equal.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: Start test public:4:public_exp1.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: Test public:4:public_exp1 is successful.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: End test public:4:public_exp1.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: Start test public:7:public_if.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: Test public:7:public_if is successful.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: End test public:7:public_if.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: Start test public:9:public_if_else_while.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: Test public:9:public_if_else_while is successful.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: End test public:9:public_if_else_while.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: Start test public:11:public_main.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: Test public:11:public_main is successful.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: End test public:11:public_main.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: Start test public:14:public_nested_while.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: Test public:14:public_nested_while is successful.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: End test public:14:public_nested_while.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: Start test public:16:public_test1.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: Test public:16:public_test1 is successful.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: End test public:16:public_test1.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: Start test public:18:public_test3.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: Test public:18:public_test3 is successful.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: End test public:18:public_test3.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: Start test public:19:public_test4.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: Test public:19:public_test4 is successful.
+2020-11-18T15:17:40+00:00 Fays-MacBook-Air.local#01 I: End test public:19:public_test4.
