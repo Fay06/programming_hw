@@ -1,0 +1,18 @@
+2020-10-08T01:51:45+00:00 Fays-MacBook-Air.local#01 I: Start test public:0:count_occ.
+2020-10-08T01:51:45+00:00 Fays-MacBook-Air.local#01 I: Test public:0:count_occ is successful.
+2020-10-08T01:51:45+00:00 Fays-MacBook-Air.local#01 I: End test public:0:count_occ.
+2020-10-08T01:51:45+00:00 Fays-MacBook-Air.local#01 I: Start test public:2:assoc_list.
+2020-10-08T01:51:45+00:00 Fays-MacBook-Air.local#01 I: Test public:2:assoc_list is successful.
+2020-10-08T01:51:45+00:00 Fays-MacBook-Air.local#01 I: End test public:2:assoc_list.
+2020-10-08T01:51:45+00:00 Fays-MacBook-Air.local#01 I: Start test public:4:int_tree.
+2020-10-08T01:51:45+00:00 Fays-MacBook-Air.local#01 I: Test public:4:int_tree is successful.
+2020-10-08T01:51:45+00:00 Fays-MacBook-Air.local#01 I: End test public:4:int_tree.
+2020-10-08T01:51:45+00:00 Fays-MacBook-Air.local#01 I: Start test public:5:ptree_1.
+2020-10-08T01:51:45+00:00 Fays-MacBook-Air.local#01 I: Test public:5:ptree_1 is successful.
+2020-10-08T01:51:45+00:00 Fays-MacBook-Air.local#01 I: End test public:5:ptree_1.
+2020-10-08T01:51:45+00:00 Fays-MacBook-Air.local#01 I: Start test public:8:scopes.
+2020-10-08T01:51:45+00:00 Fays-MacBook-Air.local#01 I: Test public:8:scopes is successful.
+2020-10-08T01:51:45+00:00 Fays-MacBook-Air.local#01 I: End test public:8:scopes.
+2020-10-08T01:51:45+00:00 Fays-MacBook-Air.local#01 I: Start test public:9:shape.
+2020-10-08T01:51:45+00:00 Fays-MacBook-Air.local#01 I: Test public:9:shape is successful.
+2020-10-08T01:51:45+00:00 Fays-MacBook-Air.local#01 I: End test public:9:shape.
