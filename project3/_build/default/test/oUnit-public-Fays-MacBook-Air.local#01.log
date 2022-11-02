@@ -1,0 +1,12 @@
+2020-10-26T07:18:02+00:00 Fays-MacBook-Air.local#01 I: Start test public:0:nfa_accept.
+2020-10-26T07:18:02+00:00 Fays-MacBook-Air.local#01 I: Test public:0:nfa_accept is successful.
+2020-10-26T07:18:02+00:00 Fays-MacBook-Air.local#01 I: End test public:0:nfa_accept.
+2020-10-26T07:18:02+00:00 Fays-MacBook-Air.local#01 I: Start test public:3:nfa_to_dfa.
+2020-10-26T07:18:02+00:00 Fays-MacBook-Air.local#01 I: Test public:3:nfa_to_dfa is successful.
+2020-10-26T07:18:02+00:00 Fays-MacBook-Air.local#01 I: End test public:3:nfa_to_dfa.
+2020-10-26T07:18:02+00:00 Fays-MacBook-Air.local#01 I: Start test public:5:str_to_nfa.
+2020-10-26T07:18:02+00:00 Fays-MacBook-Air.local#01 I: Test public:5:str_to_nfa is successful.
+2020-10-26T07:18:02+00:00 Fays-MacBook-Air.local#01 I: End test public:5:str_to_nfa.
+2020-10-26T07:18:02+00:00 Fays-MacBook-Air.local#01 I: Start test public:7:nfa_new_trans.
+2020-10-26T07:18:02+00:00 Fays-MacBook-Air.local#01 I: Test public:7:nfa_new_trans is successful.
+2020-10-26T07:18:02+00:00 Fays-MacBook-Air.local#01 I: End test public:7:nfa_new_trans.
