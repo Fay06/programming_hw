@@ -1,0 +1,9 @@
+2020-10-02T19:15:38+00:00 Fays-MacBook-Air.local#01 I: Start test public:0:mul_n.
+2020-10-02T19:15:38+00:00 Fays-MacBook-Air.local#01 I: Test public:0:mul_n is successful.
+2020-10-02T19:15:38+00:00 Fays-MacBook-Air.local#01 I: End test public:0:mul_n.
+2020-10-02T19:15:38+00:00 Fays-MacBook-Air.local#01 I: Start test public:2:list_of_option.
+2020-10-02T19:15:38+00:00 Fays-MacBook-Air.local#01 I: Test public:2:list_of_option is successful.
+2020-10-02T19:15:38+00:00 Fays-MacBook-Air.local#01 I: End test public:2:list_of_option.
+2020-10-02T19:15:38+00:00 Fays-MacBook-Air.local#01 I: Start test public:5:map_lengthlist.
+2020-10-02T19:15:38+00:00 Fays-MacBook-Air.local#01 I: Test public:5:map_lengthlist is successful.
+2020-10-02T19:15:38+00:00 Fays-MacBook-Air.local#01 I: End test public:5:map_lengthlist.

@@ -1,0 +1,12 @@
+2020-09-18T15:10:35+00:00 Fays-MacBook-Air.local#01 I: Start test public:0:concat.
+2020-09-18T15:10:35+00:00 Fays-MacBook-Air.local#01 I: Test public:0:concat is successful.
+2020-09-18T15:10:35+00:00 Fays-MacBook-Air.local#01 I: End test public:0:concat.
+2020-09-18T15:10:35+00:00 Fays-MacBook-Air.local#01 I: Start test public:2:fib.
+2020-09-18T15:10:35+00:00 Fays-MacBook-Air.local#01 I: Test public:2:fib is successful.
+2020-09-18T15:10:35+00:00 Fays-MacBook-Air.local#01 I: End test public:2:fib.
+2020-09-18T15:10:35+00:00 Fays-MacBook-Air.local#01 I: Start test public:3:add_three.
+2020-09-18T15:10:35+00:00 Fays-MacBook-Air.local#01 I: Test public:3:add_three is successful.
+2020-09-18T15:10:35+00:00 Fays-MacBook-Air.local#01 I: End test public:3:add_three.
+2020-09-18T15:10:35+00:00 Fays-MacBook-Air.local#01 I: Start test public:5:func_defn.
+2020-09-18T15:10:35+00:00 Fays-MacBook-Air.local#01 I: Test public:5:func_defn is successful.
+2020-09-18T15:10:35+00:00 Fays-MacBook-Air.local#01 I: End test public:5:func_defn.
